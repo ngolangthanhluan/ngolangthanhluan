@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ngolangthanhluan
-- 👀 I’m interested in Networking and Automation
+- 👀 I’m interested in System in General and Automation
 - 🌱 I’m currently learning CCNA 
 - 💞️ I’m looking to collaborate on Network Sec, Automation 
 - 📫 How to reach me ...
